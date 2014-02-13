@@ -13,3 +13,5 @@ Se puede editar para agregar los archivos que se desean ignorar.
 Ejemplo:
 
 C:\Users\Zelos Wilder\Documents\GIT\Practica 1\Ignorar Archivos.txt
+
+lkasdjalskdjalksdjlaksdjlk
