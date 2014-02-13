@@ -1,0 +1,15 @@
+REGLAS GIT IGNORE
+
+~Como hacer que git ignore archivo al momento de hacer un add *~
+
+Un archivo .gitignore hace que se ignoren los archivos especificados
+en el mismo, al momento de trabajar con GIT.
+
+1.Se tiene que crear un archivo .gitignore, para hacerlo desde el Bash
+se tiene que escribir "touch .gitignore",  y esto te creara un archivo
+con la extension .gitignore en la carpeta en la que este en ese momento.
+Se puede editar para agregar los archivos que se desean ignorar.
+
+Ejemplo:
+
+C:\Users\Zelos Wilder\Documents\GIT\Practica 1\Ignorar Archivos.txt
